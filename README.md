@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# Hi 👋 I'm Pavanakumara B M
+# Hi 👋 I'm Pavanakumara B M
 
 🎓 BCA Graduate | 💻 Full-Stack Developer
 
